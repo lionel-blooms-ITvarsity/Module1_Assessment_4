@@ -1,0 +1,34 @@
+table{
+    border-collapse: collapse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+}
+
+th{
+    background-color: aqua;
+    color: blue;
+}
+
+a{
+    padding: 5px;
+    background-color: aqua;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover{
+    color: white;
+}
+
+h2{
+    font-size: 50px;
+}
+
+h4{
+    font-size: 30px;
+}
+
+p{
+    font-weight: 600;
+}
+
